@@ -1,2 +1,2 @@
-# [Scripts](turnboxes/Assets/Scripts)
+Shortcut to #[scripts](turnboxes/Assets/Scripts)
  
